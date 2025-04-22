@@ -1,8 +1,13 @@
 # 💤 NoSleep - Keep Your PC Awake
 
+- [🔤 עברית](#-עברית--hebrew)
+- [🔤 English](#-english--אנגלית)
+- [👩‍💻 Developer Guide](#-for-developers)
+- [📄 License](#-license)
+
 <div dir="rtl">
 
-## 🇮🇱 עברית
+## 📝 עברית | Hebrew
 
 ### מה זה?
 תוכנה פשוטה שמונעת מהמחשב להיכנס למצב שינה או לכבות את המסך. שימושי במיוחד כשאתם:
@@ -23,7 +28,7 @@
 
 </div>
 
-## 🇺🇸 English
+## 📝 English | אנגלית
 
 ### What is it?
 A simple utility that prevents your PC from going to sleep or turning off the screen. Especially useful when you're:
